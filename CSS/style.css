@@ -11,7 +11,9 @@
 }
 body {
     background-color:var(--Lightgray);
-    margin-top: 5rem;  
+    margin-top: 5rem;
+    min-height: 100vh;
+    padding: 1rem; 
 }
 .Container {
     display: flex;
